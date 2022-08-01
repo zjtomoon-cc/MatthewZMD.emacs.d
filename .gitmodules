@@ -40,3 +40,6 @@
 [submodule "site-elisp/popweb"]
 	path = site-elisp/popweb
 	url = https://github.com/manateelazycat/popweb.git
+[submodule "site-elisp/lsp-bridge"]
+	path = site-elisp/lsp-bridge
+	url = https://github.com/manateelazycat/lsp-bridge.git

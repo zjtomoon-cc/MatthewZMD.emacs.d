@@ -156,11 +156,9 @@ If you experience freezing, decrease this.  If you experience stuttering, increa
 
 (require 'init-yasnippet)
 
-(require 'init-syntax)
-
 (require 'init-dumb-jump)
 
-(require 'init-parens)
+(require 'init-tree-sitter)
 
 (require 'init-indent)
 
@@ -176,13 +174,9 @@ If you experience freezing, decrease this.  If you experience stuttering, increa
 
 (require 'init-ein)
 
-(require 'init-lsp)
-
-(require 'init-company)
+(require 'init-complete)
 
 ;; Programming
-(require 'init-java)
-
 (require 'init-cc)
 
 (require 'init-python)
